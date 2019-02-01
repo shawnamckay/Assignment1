@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9da7f157-4429-4199-b82a-0a4f766bc36b" name="Default Changelist" comment="" />
+    <list default="true" id="9da7f157-4429-4199-b82a-0a4f766bc36b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basset_hound.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/beagle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dogs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/Beagle_white.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/Shetland_white.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/basset_eyes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/basset_puppy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/basset_run.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/beagle_puppy.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/beagle_run.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/lassie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/shetland.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/shetland_close.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/img/shetland_tricolor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/shetland.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/styles.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,16 +31,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dogs.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="433">
               <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
               <folding>
-                <element signature="e#673#679#0" expanded="true" />
-                <element signature="e#680#686#0" expanded="true" />
-                <element signature="e#687#693#0" expanded="true" />
-                <element signature="e#694#700#0" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -32,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/beagle.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1168">
-              <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+            <state relative-caret-position="1518">
+              <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
               <folding>
                 <element signature="e#957#963#0" expanded="true" />
                 <element signature="e#964#970#0" expanded="true" />
@@ -48,13 +62,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shetland.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
+            <state relative-caret-position="1380">
               <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
               <folding>
-                <element signature="e#1194#1200#0" expanded="true" />
-                <element signature="e#1201#1207#0" expanded="true" />
-                <element signature="e#1208#1214#0" expanded="true" />
-                <element signature="e#1215#1221#0" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -64,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basset_hound.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
+            <state relative-caret-position="1380">
+              <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
               <folding>
                 <element signature="e#960#966#0" expanded="true" />
                 <element signature="e#967#973#0" expanded="true" />
@@ -76,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="422">
@@ -103,6 +113,9 @@
     <replaceStrings>
       <replace />
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -170,12 +183,12 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="dogs.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/assign1/dogs.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/assign1/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.dogs.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -193,15 +206,15 @@
       <workItem from="1548268785610" duration="3207000" />
       <workItem from="1548278300496" duration="15699000" />
       <workItem from="1548799928237" duration="11304000" />
+      <workItem from="1549046199749" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31584000" />
+    <option name="totallyTimeSpent" value="31596000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="43" width="1400" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -226,23 +239,10 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/basset_hound.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="60" column="26" lean-forward="true" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
-          <folding>
-            <element signature="e#960#966#0" expanded="true" />
-            <element signature="e#967#973#0" expanded="true" />
-            <element signature="e#974#980#0" expanded="true" />
-            <element signature="e#981#987#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/beagle.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1168">
-          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        <state relative-caret-position="1518">
+          <caret line="66" column="14" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
           <folding>
             <element signature="e#957#963#0" expanded="true" />
             <element signature="e#964#970#0" expanded="true" />
@@ -255,28 +255,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/shetland.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
+        <state relative-caret-position="1380">
           <caret line="60" column="57" selection-start-line="60" selection-start-column="57" selection-end-line="60" selection-end-column="57" />
           <folding>
-            <element signature="e#1194#1200#0" expanded="true" />
-            <element signature="e#1201#1207#0" expanded="true" />
-            <element signature="e#1208#1214#0" expanded="true" />
-            <element signature="e#1215#1221#0" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dogs.html">
+    <entry file="file://$PROJECT_DIR$/basset_hound.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+        <state relative-caret-position="1380">
+          <caret line="60" column="26" selection-start-line="60" selection-start-column="26" selection-end-line="60" selection-end-column="26" />
           <folding>
-            <element signature="e#673#679#0" expanded="true" />
-            <element signature="e#680#686#0" expanded="true" />
-            <element signature="e#687#693#0" expanded="true" />
-            <element signature="e#694#700#0" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#960#966#0" expanded="true" />
+            <element signature="e#967#973#0" expanded="true" />
+            <element signature="e#974#980#0" expanded="true" />
+            <element signature="e#981#987#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -285,6 +280,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="422">
           <caret line="161" column="22" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
